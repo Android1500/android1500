@@ -9,7 +9,7 @@
 
 - Hi there! I'm Android1500, a self thought programmer.
 
-- I'm currently learning kotlin, Android development and UI/UX designing.
+- I'm currently learning kotlin, and UI/UX designing.
 
 - Apart from programming i love to watch anime & web series in free time.
 
